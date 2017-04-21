@@ -73,8 +73,8 @@ input[type=submit]:hover {
     background-color: #6a9ee8;
 }
 .contact-container {
-    border-radius: 20px;
     background-color: #f2f2f2;
+    padding-top: 2%;
     padding-left: 8%;
     margin-top: 1.75cm;
 }
