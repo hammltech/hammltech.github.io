@@ -61,7 +61,7 @@ height: 200px;
 width: 50%;
 }
 input[type=submit] {
-    background-color: #333;
+    background-color: #365d96;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -70,13 +70,13 @@ input[type=submit] {
     display: block;
 }
 input[type=submit]:hover {
-    background-color: white;
+    background-color: #6a9ee8;
 }
 .contact-container {
     border-radius: 8px;
     background-color: #f2f2f2;
     padding-left: 8%;
-    margin-top: 1.5cm;
+    
 }
 
 
