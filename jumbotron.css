@@ -49,10 +49,10 @@ body {
 .nav.navbar-nav a:hover {
  color: #365d96;
 }
-.navbar-brand {
+.navbar-header.navbar-brand {
   color: #000;
 }
-.navbar-brand:hover {
+.navbar-header.navbar-brand:hover {
   color: #365d96;
 }
 
