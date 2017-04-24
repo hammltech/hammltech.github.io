@@ -42,7 +42,13 @@ body {
 }
 .navbar {
   background-color: #365d96;
-  color: #000;
+}
+.nav.navbar-nav li a {
+   color: #000;
+ }
+
+.nav.navbar-nav a:hover {
+ color: #365d96;
 }
 
 
